@@ -3,3 +3,5 @@
 *.asv
 # Compiled MEX binaries (all platforms)
 *.mex*
+
+*.MATLABDriveTag
